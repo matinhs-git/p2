@@ -1,4 +1,4 @@
 salam 
-tamrin merge 2 branches
+exercise: merge 2 branches
 soft and hard reset
 delete branch
