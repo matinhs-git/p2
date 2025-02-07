@@ -1,0 +1,3 @@
+salam 
+tamrin merge 2 branches
+soft and hard reset
